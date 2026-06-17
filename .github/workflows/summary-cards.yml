@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: matchai/latest-repos@master
+      - uses: kurkru/readme-latest-repos@v1
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           count: 3 # Ini akan menampilkan 3 repo terbaru
