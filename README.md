@@ -13,7 +13,7 @@
 
 ---
 
-## 🌊 About Me
+## 🫧 About Me
 > *“In a sea of data, I find the logic to build better systems.”*
 
 * **🎓 Student:** Undergraduate Informatics student.
@@ -22,8 +22,14 @@
 * **🌱 Learning:** .
 
 ---
+## 🐚 My Recent Projects
+*A glimpse of what I've been working on lately.*
+<div align="center">
+  <img src="https://github-readme-summary-cards.vercel.app/api/cards/stats?username=nacafriss&theme=ocean_dark&hide_border=true&bg_color=EFF9FE" />
+  <img src="https://github-readme-summary-cards.vercel.app/api/cards/repos-per-language?username=nacafriss&theme=ocean_dark&hide_border=true&bg_color=EFF9FE" />
+</div>
 
-## Analytics & Tech Stack
+## 🪸🫧🐢 Analytics & Tech Stack
 
 *The graph below reflects my coding journey, visualized in my preferred palette.*
 
@@ -34,7 +40,7 @@
 
 ---
 
-## Tech Toolbox
+## 🐋✨🫧 Tech Toolbox
 *My essential tools for crafting digital experiences.*
 
 <p align="center">
@@ -45,7 +51,8 @@
 </p>
 
 ---
+---
 <div align="center">
-  <p><i>Stay curious, keep coding.</i></p>
-  <img src="https://capsule-render.vercel.app/type=soft&color=89CFF0&height=80&section=footer" />
+  <p><i>Building systems, one wave at a time.</i> 🌊</p>
+  <img src="https://user-images.githubusercontent.com/106822557/173946059-166299b0-9a3b-4171-97b7-58474268a735.gif" width="600" />
 </div>
