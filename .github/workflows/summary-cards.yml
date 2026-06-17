@@ -10,9 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-cards
     steps:
-      - uses: vn7n24hlkvq/github-profile-summary-cards@release
+      - uses: arifszn/github-profile-summary-cards@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          UTC_OFFSET: 7 # Sesuaikan dengan zona waktu WIB
