@@ -1,17 +1,15 @@
-name: GitHub Profile Summary Cards
-
+name: Latest Repos
 on:
   schedule:
-    - cron: '0 0 * * *' # Update setiap hari
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
-  build:
+  update-readme:
     runs-on: ubuntu-latest
-    name: generate-cards
     steps:
-      - uses: arifszn/github-profile-summary-cards@main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/checkout@v3
+      - uses: matchai/latest-repos@master
         with:
-          USERNAME: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          count: 3 # Ini akan menampilkan 3 repo terbaru
