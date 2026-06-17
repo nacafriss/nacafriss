@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/pfp" />
+<img src="assets/pfp.jpg" width="150" style="border-radius: 50%" />
 
 ### Creating Systems with Purpose, Designing with Heart.
 
@@ -28,8 +28,8 @@
 *The graph below reflects my coding journey, visualized in my preferred palette.*
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nacafriss&layout=compact&theme=transparent&hide_border=true&title_color=4F9DA6&text_color=555555&icon_color=4F9DA6" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=nacafriss&show_icons=true&theme=transparent&hide_border=true&title_color=4F9DA6&text_color=555555&icon_color=4F9DA6" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nacafriss&layout=compact&theme=transparent&hide_border=true&title_color=005477&text_color=555555&icon_color=005477" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nacafriss&show_icons=true&theme=transparent&hide_border=true&title_color=005477&text_color=555555&icon_color=005477" width="45%" />
 </div>
 
 ---
