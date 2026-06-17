@@ -22,12 +22,7 @@
 * **🌱 Learning:** .
 
 ---
-## 🐚 My Recent Projects
-*A glimpse of what I've been working on lately.*
-<div align="center">
-  <img src="https://github-readme-summary-cards.vercel.app/api/cards/stats?username=nacafriss&theme=ocean_dark&hide_border=true&bg_color=EFF9FE" />
-  <img src="https://github-readme-summary-cards.vercel.app/api/cards/repos-per-language?username=nacafriss&theme=ocean_dark&hide_border=true&bg_color=EFF9FE" />
-</div>
+## 🐚 My Latest Projects
 
 ## 🪸🫧🐢 Analytics & Tech Stack
 
