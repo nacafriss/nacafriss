@@ -1,41 +1,51 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/type=wave&color=gradient&gradient=150&height=200&section=header&text=Halo,%20Saya%20[Nama%20Anda]!&fontSize=40&fontAlignY=40&desc=System%20Analyst%20|%20Feminine%20Coder%20|%20Tech%20Enthusiast&descAlignY=60" width="100%" />
+<img src="assets/pfp" />
 
-### 🌊 Selamat Datang di Ruang Kerja Digital Saya!
+### Creating Systems with Purpose, Designing with Heart.
 
 <p align="center">
-  <a href="https://linkedin.com/in/friskarimaa"><img src="https://img.shields.io/badge/LinkedIn-87CEEB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:friskarimaa@gmail.com"><img src="https://img.shields.io/badge/Gmail-B0E0E6?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://instagram.com/friskarimaa"><img src="https://img.shields.io/badge/Instagram-ADD8E6?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://linkedin.com/in/friskarimaa"><img src="https://img.shields.io/badge/LinkedIn-4F9DA6?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://instagram.com/friskarimaa"><img src="https://img.shields.io/badge/Instagram-93C572?style=flat-square&logo=instagram&logoColor=white"></a>
+  <a href="mailto:friskarimaa@gmail.com"><img src="https://img.shields.io/badge/Email-FFB7C5?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 </div>
 
 ---
 
-## 🐚 Tentang Saya
+## 🌊 About Me
+> *“In a sea of data, I find the logic to build better systems.”*
 
-- 🎓 **Pendidikan:** Informatika.
-- 💼 **Peran:** Aktif sebagai **Asisten Praktikum**.
-- 🎯 **Fokus:** (?).
-- ✨ **Vibe:** - .
+* **🎓 Student:** Undergraduate Informatics student.
+* **💼 Currently:** Growing as a Laboratory Assistant.
+* **🎨 Passion:** ??.
+* **🌱 Learning:** .
 
 ---
 
-## 🫧 Teknologi & Statistik
+## Analytics & Tech Stack
+
+*The graph below reflects my coding journey, visualized in my preferred palette.*
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nacafriss&layout=compact&theme=transparent&hide_border=true&title_color=4F9DA6&text_color=555555&icon_color=4F9DA6" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nacafriss&show_icons=true&theme=transparent&hide_border=true&title_color=4F9DA6&text_color=555555&icon_color=4F9DA6" width="45%" />
+</div>
+
+---
+
+## Tech Toolbox
+*My essential tools for crafting digital experiences.*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nacafriss&layout=compact&theme=ocean&hide_progress=false&card_width=400" alt="Languages" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=nacafriss&show_icons=true&theme=ocean&card_width=400" alt="Stats" />
+  <img src="https://img.shields.io/badge/PHP-89CFF0?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/Laravel-FFB7C5?style=for-the-badge&logo=laravel&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-93C572?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-4F9DA6?style=for-the-badge&logo=figma&logoColor=white">
 </p>
 
 ---
-
-
-<br/>
-
 <div align="center">
-  <p><i>"Flowing with logic, designing with dreams."</i> 🐚</p>
-  <img src="https://capsule-render.vercel.app/type=wave&color=gradient&height=100&section=footer" width="100%" />
+  <p><i>Stay curious, keep coding.</i></p>
+  <img src="https://capsule-render.vercel.app/type=soft&color=89CFF0&height=80&section=footer" />
 </div>
