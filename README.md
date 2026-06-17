@@ -23,6 +23,8 @@
 
 ---
 ## 🐚 My Latest Projects
+*A showcase of my latest projects and coding activity.*
+``
 
 ## 🪸🫧🐢 Analytics & Tech Stack
 
