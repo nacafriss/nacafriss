@@ -1,0 +1,46 @@
+name: Update Collaboration Projects
+
+on:
+  schedule:
+    - cron: '0 1 * * *'   # jalan 1 jam setelah workflow yang satunya, biar gak rebutan commit
+  workflow_dispatch:
+
+jobs:
+  update-collab:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GH_PAT }}
+          script: |
+            const fs = require('fs');
+            const { data: repos } = await github.rest.repos.listForAuthenticatedUser({
+              affiliation: 'collaborator',
+              sort: 'updated',
+              per_page: 3
+            });
+
+            let list = '';
+            for (const repo of repos) {
+              const lang = repo.language || 'Misc';
+              const date = new Date(repo.updated_at).toLocaleDateString('id-ID', { day: 'numeric', month: 'short', year: 'numeric' });
+              list += `🤝 **[${repo.name}](${repo.html_url})** &nbsp;·&nbsp; ![${lang}](https://img.shields.io/badge/-${lang}-A8DADC?style=flat-square) &nbsp;·&nbsp; _diperbarui ${date}_\n\n`;
+            }
+
+            let readme = fs.readFileSync('README.md', 'utf8');
+            readme = readme.replace(
+              /<!--START_SECTION:collab-->[\s\S]*<!--END_SECTION:collab-->/,
+              `<!--START_SECTION:collab-->\n${list}<!--END_SECTION:collab-->`
+            );
+            fs.writeFileSync('README.md', readme);
+
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "🤖 auto-update collaboration projects"
+          git push
