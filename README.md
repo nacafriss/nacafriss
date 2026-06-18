@@ -26,12 +26,6 @@
 *A showcase of my latest projects and coding activity.*
 
 <!--START_SECTION:repos-->
-| Repo | Bahasa | Terakhir Update |
-|:---|:---:|:---|
-| [**nacafriss**](https://github.com/nacafriss/nacafriss) | - | 18 Jun 2026 |
-| [**PBO-Praktikum**](https://github.com/nacafriss/PBO-Praktikum) | Java | 1 Jun 2026 |
-| [**Projek_SCPK**](https://github.com/nacafriss/Projek_SCPK) | Python | 30 Mei 2026 |
-
 <!--END_SECTION:repos-->
 
 ## 🪸🫧🐢 Analytics & Tech Stack
