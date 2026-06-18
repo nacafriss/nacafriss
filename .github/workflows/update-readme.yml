@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: actions/github-script@v7
+       - uses: actions/github-script@v7
         with:
           script: |
             const fs = require('fs');
@@ -23,17 +23,17 @@ jobs:
               per_page: 3
             });
 
-            let table = `| Repo | Bahasa | Terakhir Update |\n|:---|:---:|:---|\n`;
+            let list = '';
             for (const repo of repos) {
-              const lang = repo.language || '-';
+              const lang = repo.language || 'Misc';
               const date = new Date(repo.updated_at).toLocaleDateString('id-ID', { day: 'numeric', month: 'short', year: 'numeric' });
-              table += `| [**${repo.name}**](${repo.html_url}) | ${lang} | ${date} |\n`;
+              list += `🐚 **[${repo.name}](${repo.html_url})** &nbsp;·&nbsp; ![${lang}](https://img.shields.io/badge/-${lang}-457B9D?style=flat-square) &nbsp;·&nbsp; _diperbarui ${date}_\n\n`;
             }
 
             let readme = fs.readFileSync('README.md', 'utf8');
             readme = readme.replace(
               /<!--START_SECTION:repos-->[\s\S]*<!--END_SECTION:repos-->/,
-              `<!--START_SECTION:repos-->\n${table}\n<!--END_SECTION:repos-->`
+              `<!--START_SECTION:repos-->\n${list}<!--END_SECTION:repos-->`
             );
             fs.writeFileSync('README.md', readme);
 
