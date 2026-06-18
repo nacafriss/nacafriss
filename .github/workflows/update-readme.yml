@@ -1,0 +1,45 @@
+name: Update Profile README
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # jalan otomatis tiap hari jam 00:00 UTC
+  workflow_dispatch:        # bisa juga dijalankan manual lewat tab Actions
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+       - uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const { data: repos } = await github.rest.repos.listForUser({
+              username: 'nacafriss',
+              sort: 'updated',
+              per_page: 3
+            });
+
+            let list = '';
+            for (const repo of repos) {
+              const lang = repo.language || 'Misc';
+              const date = new Date(repo.updated_at).toLocaleDateString('id-ID', { day: 'numeric', month: 'short', year: 'numeric' });
+              list += `🐚 **[${repo.name}](${repo.html_url})** &nbsp;·&nbsp; ![${lang}](https://img.shields.io/badge/-${lang}-457B9D?style=flat-square) &nbsp;·&nbsp; _diperbarui ${date}_\n\n`;
+            }
+
+            let readme = fs.readFileSync('README.md', 'utf8');
+            readme = readme.replace(
+              /<!--START_SECTION:repos-->[\s\S]*<!--END_SECTION:repos-->/,
+              `<!--START_SECTION:repos-->\n${list}<!--END_SECTION:repos-->`
+            );
+            fs.writeFileSync('README.md', readme);
+
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "🤖 auto-update latest repos"
+          git push
