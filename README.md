@@ -24,7 +24,9 @@
 ---
 ## 🐚 My Latest Projects
 *A showcase of my latest projects and coding activity.*
-``
+
+<!--START_SECTION:repos-->
+<!--END_SECTION:repos-->
 
 ## 🪸🫧🐢 Analytics & Tech Stack
 
