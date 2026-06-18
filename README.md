@@ -17,18 +17,19 @@
 * **💼 Currently:** Growing as a Laboratory Assistant.
 * **🎨 Passion:** ??.
 * **🌱 Learning:** .
+<br>
 
 ## 🐚 My Latest Projects
 *A showcase of my latest projects and coding activity.*
-
 <!--START_SECTION:repos-->
-🐚 **[nacafriss](https://github.com/nacafriss/nacafriss)** &nbsp;·&nbsp; ![Misc](https://img.shields.io/badge/-Misc-457B9D?style=flat-square) &nbsp;·&nbsp; _diperbarui 18 Jun 2026_
-
-🐚 **[PBO-Praktikum](https://github.com/nacafriss/PBO-Praktikum)** &nbsp;·&nbsp; ![Java](https://img.shields.io/badge/-Java-457B9D?style=flat-square) &nbsp;·&nbsp; _diperbarui 1 Jun 2026_
-
-🐚 **[Projek_SCPK](https://github.com/nacafriss/Projek_SCPK)** &nbsp;·&nbsp; ![Python](https://img.shields.io/badge/-Python-457B9D?style=flat-square) &nbsp;·&nbsp; _diperbarui 30 Mei 2026_
-
 <!--END_SECTION:repos-->
+<br>
+
+## 🤝 Collaboration Projects
+*Some of my best work happens with other people, not alone.*
+<!--START_SECTION:collab-->
+<!--END_SECTION:collab-->
+<br>
 
 ## 🪸🫧🐢 Analytics & Tech Stack
 
@@ -36,7 +37,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nacafriss&layout=compact&theme=transparent&hide_border=true&title_color=457B9D&text_color=457B9D&icon_color=005477" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api?username=nacafriss&show_icons=true&theme=transparent&hide_border=true&title_color=005477&text_color=555555&icon_color=005477" width="45%" />
 </div>
-
+<br>
 
 ## 🐋✨🫧 Tech Toolbox
 *My essential tools for crafting digital experiences.*
@@ -54,6 +55,7 @@
 ![Git](https://img.shields.io/badge/Git-A8DADC?style=for-the-badge&logo=git&logoColor=1D3557)
 
 </div>
+<br>
 
 <div align="center">
   <p><i>Building systems, one wave at a time.</i> 🌊</p>
