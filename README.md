@@ -22,7 +22,7 @@
 ## 🐚 My Latest Projects
 *A showcase of my latest projects and coding activity.*
 <!--START_SECTION:repos-->
-🐚 **[nacafriss](https://github.com/nacafriss/nacafriss)** &nbsp;·&nbsp; ![Misc](https://img.shields.io/badge/-Misc-457B9D?style=flat-square) &nbsp;·&nbsp; _diperbarui 19 Jun 2026_
+🐚 **[nacafriss](https://github.com/nacafriss/nacafriss)** &nbsp;·&nbsp; ![Misc](https://img.shields.io/badge/-Misc-457B9D?style=flat-square) &nbsp;·&nbsp; _diperbarui 20 Jun 2026_
 
 🐚 **[PBO-Praktikum](https://github.com/nacafriss/PBO-Praktikum)** &nbsp;·&nbsp; ![Java](https://img.shields.io/badge/-Java-457B9D?style=flat-square) &nbsp;·&nbsp; _diperbarui 18 Jun 2026_
 
