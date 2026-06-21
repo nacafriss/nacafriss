@@ -34,11 +34,11 @@
 ## 🤝 Collaboration Projects
 *Some of my best work happens with other people, not alone.*
 <!--START_SECTION:collab-->
+🤝 **[projek_RPL_puskesmas](https://github.com/azzahfauziya/projek_RPL_puskesmas)** &nbsp;·&nbsp; ![Vue](https://img.shields.io/badge/-Vue-A8DADC?style=flat-square) &nbsp;·&nbsp; _diperbarui 20 Jun 2026_
+
 🤝 **[Projek-SCPK-metode-Fuzzy](https://github.com/alyachoirunnisa05-maker/Projek-SCPK-metode-Fuzzy)** &nbsp;·&nbsp; ![Python](https://img.shields.io/badge/-Python-A8DADC?style=flat-square) &nbsp;·&nbsp; _diperbarui 17 Jun 2026_
 
 🤝 **[ProjekPBOMateri](https://github.com/Diooo00/ProjekPBOMateri)** &nbsp;·&nbsp; ![Java](https://img.shields.io/badge/-Java-A8DADC?style=flat-square) &nbsp;·&nbsp; _diperbarui 15 Jun 2026_
-
-🤝 **[projek_RPL_puskesmas](https://github.com/azzahfauziya/projek_RPL_puskesmas)** &nbsp;·&nbsp; ![Vue](https://img.shields.io/badge/-Vue-A8DADC?style=flat-square) &nbsp;·&nbsp; _diperbarui 9 Jun 2026_
 
 <!--END_SECTION:collab-->
 <br>
