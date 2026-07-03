@@ -22,24 +22,12 @@
 ## 🐚 My Latest Projects
 *A showcase of my latest projects and coding activity.*
 <!--START_SECTION:repos-->
-🐚 **[nacafriss](https://github.com/nacafriss/nacafriss)** &nbsp;·&nbsp; ![Misc](https://img.shields.io/badge/-Misc-457B9D?style=flat-square) &nbsp;·&nbsp; _diperbarui 2 Jul 2026_
-
-🐚 **[backup_RPL](https://github.com/nacafriss/backup_RPL)** &nbsp;·&nbsp; ![Misc](https://img.shields.io/badge/-Misc-457B9D?style=flat-square) &nbsp;·&nbsp; _diperbarui 21 Jun 2026_
-
-🐚 **[PBO-Praktikum](https://github.com/nacafriss/PBO-Praktikum)** &nbsp;·&nbsp; ![Java](https://img.shields.io/badge/-Java-457B9D?style=flat-square) &nbsp;·&nbsp; _diperbarui 18 Jun 2026_
-
 <!--END_SECTION:repos-->
 <br>
 
 ## 🤝 Collaboration Projects
 *Some of my best work happens with other people, not alone.*
 <!--START_SECTION:collab-->
-🤝 **[projek_RPL_puskesmas](https://github.com/azzahfauziya/projek_RPL_puskesmas)** &nbsp;·&nbsp; ![Vue](https://img.shields.io/badge/-Vue-A8DADC?style=flat-square) &nbsp;·&nbsp; _diperbarui 30 Jun 2026_
-
-🤝 **[Projek-SCPK-metode-Fuzzy](https://github.com/alyachoirunnisa05-maker/Projek-SCPK-metode-Fuzzy)** &nbsp;·&nbsp; ![Python](https://img.shields.io/badge/-Python-A8DADC?style=flat-square) &nbsp;·&nbsp; _diperbarui 17 Jun 2026_
-
-🤝 **[ProjekPBOMateri](https://github.com/Diooo00/ProjekPBOMateri)** &nbsp;·&nbsp; ![Java](https://img.shields.io/badge/-Java-A8DADC?style=flat-square) &nbsp;·&nbsp; _diperbarui 15 Jun 2026_
-
 <!--END_SECTION:collab-->
 <br>
 
