@@ -22,9 +22,9 @@
 ## 🐚 My Latest Projects
 *A showcase of my latest projects and coding activity.*
 <!--START_SECTION:repos-->
-🐚 **[Aplikasi-Kriptografi](https://github.com/nacafriss/Aplikasi-Kriptografi)** &nbsp;·&nbsp; ![Python](https://img.shields.io/badge/-Python-457B9D?style=flat-square) &nbsp;·&nbsp; _diperbarui 22 Sep 2026_
+🐚 **[nacafriss](https://github.com/nacafriss/nacafriss)** &nbsp;·&nbsp; ![Misc](https://img.shields.io/badge/-Misc-457B9D?style=flat-square) &nbsp;·&nbsp; _diperbarui 23 Sep 2026_
 
-🐚 **[nacafriss](https://github.com/nacafriss/nacafriss)** &nbsp;·&nbsp; ![Misc](https://img.shields.io/badge/-Misc-457B9D?style=flat-square) &nbsp;·&nbsp; _diperbarui 22 Sep 2026_
+🐚 **[Aplikasi-Kriptografi](https://github.com/nacafriss/Aplikasi-Kriptografi)** &nbsp;·&nbsp; ![Python](https://img.shields.io/badge/-Python-457B9D?style=flat-square) &nbsp;·&nbsp; _diperbarui 22 Sep 2026_
 
 🐚 **[PBO-Praktikum](https://github.com/nacafriss/PBO-Praktikum)** &nbsp;·&nbsp; ![Java](https://img.shields.io/badge/-Java-457B9D?style=flat-square) &nbsp;·&nbsp; _diperbarui 18 Jun 2026_
 
