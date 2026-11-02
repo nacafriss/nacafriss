@@ -34,7 +34,7 @@
 ## 🤝 Collaboration Projects
 *Some of my best work happens with other people, not alone.*
 <!--START_SECTION:collab-->
-🤝 **[Pengolahan-Citra](https://github.com/nhdzzdna/Pengolahan-Citra)** &nbsp;·&nbsp; ![Python](https://img.shields.io/badge/-Python-A8DADC?style=flat-square) &nbsp;·&nbsp; _diperbarui 30 Okt 2026_
+🤝 **[Pengolahan-Citra](https://github.com/nhdzzdna/Pengolahan-Citra)** &nbsp;·&nbsp; ![Python](https://img.shields.io/badge/-Python-A8DADC?style=flat-square) &nbsp;·&nbsp; _diperbarui 2 Nov 2026_
 
 🤝 **[49_IF-E_titut-titut](https://github.com/Cantikazahra/49_IF-E_titut-titut)** &nbsp;·&nbsp; ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-A8DADC?style=flat-square) &nbsp;·&nbsp; _diperbarui 30 Okt 2026_
 
