@@ -34,7 +34,7 @@
 ## 🤝 Collaboration Projects
 *Some of my best work happens with other people, not alone.*
 <!--START_SECTION:collab-->
-🤝 **[ProjectAkhirKriptografi](https://github.com/Syahnitaa/ProjectAkhirKriptografi)** &nbsp;·&nbsp; ![Python](https://img.shields.io/badge/-Python-A8DADC?style=flat-square) &nbsp;·&nbsp; _diperbarui 5 Nov 2026_
+🤝 **[ProjectAkhirKriptografi](https://github.com/Syahnitaa/ProjectAkhirKriptografi)** &nbsp;·&nbsp; ![Python](https://img.shields.io/badge/-Python-A8DADC?style=flat-square) &nbsp;·&nbsp; _diperbarui 6 Nov 2026_
 
 🤝 **[Pengolahan-Citra](https://github.com/nhdzzdna/Pengolahan-Citra)** &nbsp;·&nbsp; ![Python](https://img.shields.io/badge/-Python-A8DADC?style=flat-square) &nbsp;·&nbsp; _diperbarui 4 Nov 2026_
 
